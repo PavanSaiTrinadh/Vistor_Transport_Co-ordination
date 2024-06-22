@@ -21,8 +21,8 @@ This is a ride-sharing web application designed for a steel plant. The applicati
 - **ORM**: Mongoose
 
 ## Contributors
-Akhil Binoy
-D Pavan Sai Trinadh
+- Akhil Binoy
+- D Pavan Sai Trinadh
 
 ## Setup Instructions
 
